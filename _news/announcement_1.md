@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-01-31
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[UC Health's data-driven system speeds research to benefit patients with diabetes](https://health.universityofcalifornia.edu/news/uc-healths-data-driven-system-speeds-research-benefit-patients-diabetes)

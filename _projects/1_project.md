@@ -1,81 +1,25 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Sex-difference underlying COVID-19
+description: Principal investigator
+img:
 importance: 1
-category: work
-related_publications: true
+category: FDA
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+#### Learning Real-World Sex-Specific Clinical Factors Influencing the Susceptibility to Infection, Immune Response, Treatment Utilization and Outcomes Among Individuals Infected with SARS-CoV-2 Infection
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+`Funding recieved: $299,167`
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+`Budget period: 9/1/2021 to 8/31/2022`
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+##### [Project Description & Goals **↗**](https://www.fda.gov/science-research/advancing-regulatory-science/learning-real-world-sex-specific-clinical-factors-influencing-susceptibility-infection-immune)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In this project, we aim to identify important clinical factors with a systematic analysis of the real-world clinical data of over half a million patients receiving COVID-19 related care across UC Health. We will then confirm our findings using the nationwide COVID-19 data from the NIH-N3C collaborative cohort of over 10 million individuals tested or treated for COVID-19. The UC Health system treats patients in the general population across 6 academic health centers and 12 hospitals, with approximately 150,000 inpatient and 4 million outpatient visits yearly. We will use the UC Health COVID Research Dataset (UC CORDS) as our training and testing data set and validate our findings using the nationwide COVID-19 dataset from the NIH-N3C collaborative. Both the UC CORDS and NIH-N3C collaborative structure their underlying clinical data using a standardized common data model. We, therefore, aim to develop, test, and validate our analysis based on both the datasets and make our computer program available to the public to enable further research.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#### Data
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+`UCSF`; `UC-Health`; `Nation-wide N3C`
