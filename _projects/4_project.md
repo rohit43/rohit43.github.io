@@ -3,7 +3,7 @@ layout: page
 title: Real-world data rapid query model
 description: Co-Principal investigator
 img:
-importance: 2
+importance: 5
 category: FDA
 related_publications: false
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Safety and Effectiveness of COVID-19 Vaccines
-description: Co-Principal investigator
+description: Co-Investigator
 img:
-importance: 2
+importance: 3
 category: FDA
 related_publications: false
 ---

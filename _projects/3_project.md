@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Safety and Effectiveness of Pediatric COVID-19 Vaccines
-description: Co-Principal investigator
+description: Co-Investigator
 img:
-importance: 2
+importance: 4
 category: FDA
 related_publications: false
 ---

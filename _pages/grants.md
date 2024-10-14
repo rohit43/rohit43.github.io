@@ -2,7 +2,7 @@
 layout: page
 title: grants
 permalink: /projects/
-description: Raised over $2.2 Million funding support to date at UCSF.
+description: Raised up to 3 Million U.S dollars in funding support to date at UCSF.
 nav: true
 nav_order: 3
 display_categories: [FDA]
