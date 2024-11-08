@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2018-08-31
+date: 2021-02-17
 inline: true
 related_posts: false
 ---
 
-[Big Data Confirm Type 2 Diabetes Treatment Approach](https://www.medscape.com/viewarticle/901447)
+[SARS-CoV-2 Antibody Tests Most Sensitive in Men, Middle Aged](https://www.medscape.com/viewarticle/946003?src=rss)

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-10-05
+date: 2023-03-29
 inline: true
 related_posts: false
 ---
 
-[UC CORDS connects scientists with patient data for actionable insights into COVID-19 and more equitable care](https://health.universityofcalifornia.edu/news/uc-cords-connects-scientists-patient-data-actionable-insights-covid-19-and-more-equitable-care)
+[UCSF Speakers Reach Record Numbers at 2023 Precision Medicine World Conference](https://precisionmedicine.ucsf.edu/news/ucsf-speakers-reach-record-numbers-2023-precision-medicine-world-conference)

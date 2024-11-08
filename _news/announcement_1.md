@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-31
+date: 2024-10-28
 inline: true
 related_posts: false
 ---
 
-[UC Health's data-driven system speeds research to benefit patients with diabetes](https://health.universityofcalifornia.edu/news/uc-healths-data-driven-system-speeds-research-benefit-patients-diabetes)
+[Leveraging Data to Improve Diabetes Care: CDI2 Annual Report 2023-2024](https://health.universityofcalifornia.edu/reports/cdi2-annual-report-2023-2024)

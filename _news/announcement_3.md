@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-03-29
+date: 2023-10-05
 inline: true
 related_posts: false
 ---
 
-[UCSF Speakers Reach Record Numbers at 2023 Precision Medicine World Conference](https://precisionmedicine.ucsf.edu/news/ucsf-speakers-reach-record-numbers-2023-precision-medicine-world-conference)
+[Metformin Monotherapy With GLP1RA, SGLT2I, DPP4I More Effective Than Sulfonylurea When Managing Diabetes](https://www.pharmacytimes.com/view/metformin-monotherapy-with-glp1ra-sglt2i-dpp4i-more-effective-than-sulfonylurea-when-managing-diabetes)

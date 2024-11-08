@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real-world evidence for treatments in oncology 
+title: Real-world evidence for treatments in oncology
 description: Principal investigator
 img:
 importance: 2
@@ -15,7 +15,6 @@ related_publications: false
 `Budget period: 9/1/2024 to 8/31/2026`
 
 ---
-
 
 #### Data
 

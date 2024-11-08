@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-05
+date: 2023-01-31
 inline: true
 related_posts: false
 ---
 
-[Metformin Monotherapy With GLP1RA, SGLT2I, DPP4I More Effective Than Sulfonylurea When Managing Diabetes](https://www.pharmacytimes.com/view/metformin-monotherapy-with-glp1ra-sglt2i-dpp4i-more-effective-than-sulfonylurea-when-managing-diabetes)
+[UC Health's data-driven system speeds research to benefit patients with diabetes](https://health.universityofcalifornia.edu/news/uc-healths-data-driven-system-speeds-research-benefit-patients-diabetes)
